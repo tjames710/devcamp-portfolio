@@ -22,3 +22,20 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+> This is a Ruby on Rails 5 application that allows users to create their own portfolios.
+
+### Features
+
+- Real time chat engine for comments
+- Blog
+- Portfolio
+- Drag and Drop interface
+
+### Code Example
+
+```ruby
+def my_intro_to_markdown
+  puts "It's pretty cool!"
+end
+```
